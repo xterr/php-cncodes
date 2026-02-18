@@ -1,0 +1,128 @@
+[
+    {
+        "code": "I",
+        "rawCode": "I",
+        "name": "LIVE ANIMALS; ANIMAL PRODUCTS",
+        "version": 2025
+    },
+    {
+        "code": "II",
+        "rawCode": "II",
+        "name": "VEGETABLE PRODUCTS",
+        "version": 2025
+    },
+    {
+        "code": "III",
+        "rawCode": "III",
+        "name": "ANIMAL, VEGETABLE OR MICROBIAL FATS AND OILS AND THEIR CLEAVAGE PRODUCTS; PREPARED EDIBLE FATS; ANIMAL OR VEGETABLE WAXES",
+        "version": 2025
+    },
+    {
+        "code": "IV",
+        "rawCode": "IV",
+        "name": "PREPARED FOODSTUFFS; BEVERAGES, SPIRITS AND VINEGAR; TOBACCO AND MANUFACTURED TOBACCO SUBSTITUTES; PRODUCTS, WHETHER OR NOT CONTAINING NICOTINE, INTENDED FOR INHALATION WITHOUT COMBUSTION; OTHER NICOTINE CONTAINING PRODUCTS INTENDED FOR THE INTAKE OF NICOTINE INTO THE HUMAN BODY",
+        "version": 2025
+    },
+    {
+        "code": "V",
+        "rawCode": "V",
+        "name": "MINERAL PRODUCTS",
+        "version": 2025
+    },
+    {
+        "code": "VI",
+        "rawCode": "VI",
+        "name": "PRODUCTS OF THE CHEMICAL OR ALLIED INDUSTRIES",
+        "version": 2025
+    },
+    {
+        "code": "VII",
+        "rawCode": "VII",
+        "name": "PLASTICS AND ARTICLES THEREOF; RUBBER AND ARTICLES THEREOF",
+        "version": 2025
+    },
+    {
+        "code": "VIII",
+        "rawCode": "VIII",
+        "name": "RAW HIDES AND SKINS, LEATHER, FURSKINS AND ARTICLES THEREOF; SADDLERY AND HARNESS; TRAVEL GOODS, HANDBAGS AND SIMILAR CONTAINERS; ARTICLES OF ANIMAL GUT (OTHER THAN SILKWORM GUT)",
+        "version": 2025
+    },
+    {
+        "code": "IX",
+        "rawCode": "IX",
+        "name": "WOOD AND ARTICLES OF WOOD; WOOD CHARCOAL; CORK AND ARTICLES OF CORK; MANUFACTURES OF STRAW, OF ESPARTO OR OF OTHER PLAITING MATERIALS; BASKETWARE AND WICKERWORK",
+        "version": 2025
+    },
+    {
+        "code": "X",
+        "rawCode": "X",
+        "name": "PULP OF WOOD OR OF OTHER FIBROUS CELLULOSIC MATERIAL; RECOVERED (WASTE AND SCRAP) PAPER OR PAPERBOARD; PAPER AND PAPERBOARD AND ARTICLES THEREOF",
+        "version": 2025
+    },
+    {
+        "code": "XI",
+        "rawCode": "XI",
+        "name": "TEXTILES AND TEXTILE ARTICLES",
+        "version": 2025
+    },
+    {
+        "code": "XII",
+        "rawCode": "XII",
+        "name": "FOOTWEAR, HEADGEAR, UMBRELLAS, SUN UMBRELLAS, WALKING STICKS, SEAT-STICKS, WHIPS, RIDING-CROPS AND PARTS THEREOF; PREPARED FEATHERS AND ARTICLES MADE THEREWITH; ARTIFICIAL FLOWERS; ARTICLES OF HUMAN HAIR",
+        "version": 2025
+    },
+    {
+        "code": "XIII",
+        "rawCode": "XIII",
+        "name": "ARTICLES OF STONE, PLASTER, CEMENT, ASBESTOS, MICA OR SIMILAR MATERIALS; CERAMIC PRODUCTS; GLASS AND GLASSWARE",
+        "version": 2025
+    },
+    {
+        "code": "XIV",
+        "rawCode": "XIV",
+        "name": "NATURAL OR CULTURED PEARLS, PRECIOUS OR SEMI-PRECIOUS STONES, PRECIOUS METALS, METALS CLAD WITH PRECIOUS METAL, AND ARTICLES THEREOF; IMITATION JEWELLERY; COIN",
+        "version": 2025
+    },
+    {
+        "code": "XV",
+        "rawCode": "XV",
+        "name": "BASE METALS AND ARTICLES OF BASE METAL",
+        "version": 2025
+    },
+    {
+        "code": "XVI",
+        "rawCode": "XVI",
+        "name": "MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL EQUIPMENT; PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS, TELEVISION IMAGE AND SOUND RECORDERS AND REPRODUCERS, AND PARTS AND ACCESSORIES OF SUCH ARTICLES",
+        "version": 2025
+    },
+    {
+        "code": "XVII",
+        "rawCode": "XVII",
+        "name": "VEHICLES, AIRCRAFT, VESSELS AND ASSOCIATED TRANSPORT EQUIPMENT",
+        "version": 2025
+    },
+    {
+        "code": "XVIII",
+        "rawCode": "XVIII",
+        "name": "OPTICAL, PHOTOGRAPHIC, CINEMATOGRAPHIC, MEASURING, CHECKING, PRECISION, MEDICAL OR SURGICAL INSTRUMENTS AND APPARATUS; CLOCKS AND WATCHES; MUSICAL INSTRUMENTS; PARTS AND ACCESSORIES THEREOF",
+        "version": 2025
+    },
+    {
+        "code": "XIX",
+        "rawCode": "XIX",
+        "name": "ARMS AND AMMUNITION; PARTS AND ACCESSORIES THEREOF",
+        "version": 2025
+    },
+    {
+        "code": "XX",
+        "rawCode": "XX",
+        "name": "MISCELLANEOUS MANUFACTURED ARTICLES",
+        "version": 2025
+    },
+    {
+        "code": "XXI",
+        "rawCode": "XXI",
+        "name": "WORKS OF ART, COLLECTORS' PIECES AND ANTIQUES",
+        "version": 2025
+    }
+]

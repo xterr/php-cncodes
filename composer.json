@@ -1,0 +1,56 @@
+{
+  "name": "xterr/php-cncodes",
+  "description": "CN (Combined Nomenclature) Codes",
+  "license": "MIT",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Razvan Ceana",
+      "email": "razvan@ceana.ro"
+    }
+  ],
+  "require": {
+    "php": "^8.0",
+    "ext-json": "*"
+  },
+  "require-dev": {
+    "illuminate/contracts": "^9.0 || ^10.0 || ^11.0 || ^12.0",
+    "phpunit/phpunit": "^9.5 || ^10.0 || ^11.0",
+    "sweetrdf/easyrdf": "^1.14",
+    "symfony/console": "^6.0 || ^7.0 || ^8.0",
+    "symfony/translation": "^6.0 || ^7.0 || ^8.0",
+    "symfony/translation-contracts": "^3.0",
+    "symfony/yaml": "^6.0 || ^7.0 || ^8.0",
+    "vimeo/psalm": "^5.9 || ^6.0"
+  },
+  "suggest": {
+    "illuminate/contracts": "Required for Laravel integration",
+    "symfony/translation-contracts": "Required for Symfony integration"
+  },
+  "autoload": {
+    "psr-4": {
+      "Xterr\\CnCodes\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Xterr\\CnCodes\\Tests\\": "tests/"
+    }
+  },
+  "bin": [
+    "bin/console"
+  ],
+  "extra": {
+    "composer-normalize": {
+      "indent-size": 2,
+      "indent-style": "space"
+    }
+  },
+  "scripts": {
+    "test": "phpunit",
+    "translations:build": "php bin/console build:translations all",
+    "translations:laravel": "php bin/console build:translations laravel:generate",
+    "translations:php": "php bin/console build:translations php:from-yaml",
+    "translations:yaml": "php bin/console build:translations yaml:generate"
+  }
+}

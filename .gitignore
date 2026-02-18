@@ -1,0 +1,8 @@
+/vendor/
+.phpunit.result.cache
+.phpunit.cache
+.idea
+.claude
+.sisyphus
+CN_*.rdf
+composer.lock

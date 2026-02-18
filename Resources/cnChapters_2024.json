@@ -1,0 +1,681 @@
+[
+    {
+        "code": "01",
+        "rawCode": "01",
+        "name": "LIVE ANIMALS",
+        "version": 2024,
+        "section": "I"
+    },
+    {
+        "code": "02",
+        "rawCode": "02",
+        "name": "MEAT AND EDIBLE MEAT OFFAL",
+        "version": 2024,
+        "section": "I"
+    },
+    {
+        "code": "03",
+        "rawCode": "03",
+        "name": "FISH AND CRUSTACEANS, MOLLUSCS AND OTHER AQUATIC INVERTEBRATES",
+        "version": 2024,
+        "section": "I"
+    },
+    {
+        "code": "04",
+        "rawCode": "04",
+        "name": "DAIRY PRODUCE; BIRDS' EGGS; NATURAL HONEY; EDIBLE PRODUCTS OF ANIMAL ORIGIN, NOT ELSEWHERE SPECIFIED OR INCLUDED",
+        "version": 2024,
+        "section": "I"
+    },
+    {
+        "code": "05",
+        "rawCode": "05",
+        "name": "PRODUCTS OF ANIMAL ORIGIN, NOT ELSEWHERE SPECIFIED OR INCLUDED",
+        "version": 2024,
+        "section": "I"
+    },
+    {
+        "code": "06",
+        "rawCode": "06",
+        "name": "LIVE TREES AND OTHER PLANTS; BULBS, ROOTS AND THE LIKE; CUT FLOWERS AND ORNAMENTAL FOLIAGE",
+        "version": 2024,
+        "section": "II"
+    },
+    {
+        "code": "07",
+        "rawCode": "07",
+        "name": "EDIBLE VEGETABLES AND CERTAIN ROOTS AND TUBERS",
+        "version": 2024,
+        "section": "II"
+    },
+    {
+        "code": "08",
+        "rawCode": "08",
+        "name": "EDIBLE FRUIT AND NUTS; PEEL OF CITRUS FRUIT OR MELONS",
+        "version": 2024,
+        "section": "II"
+    },
+    {
+        "code": "09",
+        "rawCode": "09",
+        "name": "COFFEE, TEA, MATÉ AND SPICES",
+        "version": 2024,
+        "section": "II"
+    },
+    {
+        "code": "10",
+        "rawCode": "10",
+        "name": "CEREALS",
+        "version": 2024,
+        "section": "II"
+    },
+    {
+        "code": "11",
+        "rawCode": "11",
+        "name": "PRODUCTS OF THE MILLING INDUSTRY; MALT; STARCHES; INULIN; WHEAT GLUTEN",
+        "version": 2024,
+        "section": "II"
+    },
+    {
+        "code": "12",
+        "rawCode": "12",
+        "name": "OIL SEEDS AND OLEAGINOUS FRUITS; MISCELLANEOUS GRAINS, SEEDS AND FRUIT; INDUSTRIAL OR MEDICINAL PLANTS; STRAW AND FODDER",
+        "version": 2024,
+        "section": "II"
+    },
+    {
+        "code": "13",
+        "rawCode": "13",
+        "name": "LAC; GUMS, RESINS AND OTHER VEGETABLE SAPS AND EXTRACTS",
+        "version": 2024,
+        "section": "II"
+    },
+    {
+        "code": "14",
+        "rawCode": "14",
+        "name": "VEGETABLE PLAITING MATERIALS; VEGETABLE PRODUCTS NOT ELSEWHERE SPECIFIED OR INCLUDED",
+        "version": 2024,
+        "section": "II"
+    },
+    {
+        "code": "15",
+        "rawCode": "15",
+        "name": "ANIMAL, VEGETABLE OR MICROBIAL FATS AND OILS AND THEIR CLEAVAGE PRODUCTS; PREPARED EDIBLE FATS; ANIMAL OR VEGETABLE WAXES",
+        "version": 2024,
+        "section": "III"
+    },
+    {
+        "code": "16",
+        "rawCode": "16",
+        "name": "PREPARATIONS OF MEAT, OF FISH, OF CRUSTACEANS, MOLLUSCS OR OTHER AQUATIC INVERTEBRATES, OR OF INSECTS",
+        "version": 2024,
+        "section": "IV"
+    },
+    {
+        "code": "17",
+        "rawCode": "17",
+        "name": "SUGARS AND SUGAR CONFECTIONERY",
+        "version": 2024,
+        "section": "IV"
+    },
+    {
+        "code": "18",
+        "rawCode": "18",
+        "name": "COCOA AND COCOA PREPARATIONS",
+        "version": 2024,
+        "section": "IV"
+    },
+    {
+        "code": "19",
+        "rawCode": "19",
+        "name": "PREPARATIONS OF CEREALS, FLOUR, STARCH OR MILK; PASTRYCOOKS' PRODUCTS",
+        "version": 2024,
+        "section": "IV"
+    },
+    {
+        "code": "20",
+        "rawCode": "20",
+        "name": "PREPARATIONS OF VEGETABLES, FRUIT, NUTS OR OTHER PARTS OF PLANTS",
+        "version": 2024,
+        "section": "IV"
+    },
+    {
+        "code": "21",
+        "rawCode": "21",
+        "name": "MISCELLANEOUS EDIBLE PREPARATIONS",
+        "version": 2024,
+        "section": "IV"
+    },
+    {
+        "code": "22",
+        "rawCode": "22",
+        "name": "BEVERAGES, SPIRITS AND VINEGAR",
+        "version": 2024,
+        "section": "IV"
+    },
+    {
+        "code": "23",
+        "rawCode": "23",
+        "name": "RESIDUES AND WASTE FROM THE FOOD INDUSTRIES; PREPARED ANIMAL FODDER",
+        "version": 2024,
+        "section": "IV"
+    },
+    {
+        "code": "24",
+        "rawCode": "24",
+        "name": "TOBACCO AND MANUFACTURED TOBACCO SUBSTITUTES; PRODUCTS, WHETHER OR NOT CONTAINING NICOTINE, INTENDED FOR INHALATION WITHOUT COMBUSTION; OTHER NICOTINE CONTAINING PRODUCTS INTENDED FOR THE INTAKE OF NICOTINE INTO THE HUMAN BODY",
+        "version": 2024,
+        "section": "IV"
+    },
+    {
+        "code": "25",
+        "rawCode": "25",
+        "name": "SALT; SULPHUR; EARTHS AND STONE; PLASTERING MATERIALS, LIME AND CEMENT",
+        "version": 2024,
+        "section": "V"
+    },
+    {
+        "code": "26",
+        "rawCode": "26",
+        "name": "ORES, SLAG AND ASH",
+        "version": 2024,
+        "section": "V"
+    },
+    {
+        "code": "27",
+        "rawCode": "27",
+        "name": "MINERAL FUELS, MINERAL OILS AND PRODUCTS OF THEIR DISTILLATION; BITUMINOUS SUBSTANCES; MINERAL WAXES",
+        "version": 2024,
+        "section": "V"
+    },
+    {
+        "code": "28",
+        "rawCode": "28",
+        "name": "INORGANIC CHEMICALS; ORGANIC OR INORGANIC COMPOUNDS OF PRECIOUS METALS, OF RARE-EARTH METALS, OF RADIOACTIVE ELEMENTS OR OF ISOTOPES",
+        "version": 2024,
+        "section": "VI"
+    },
+    {
+        "code": "29",
+        "rawCode": "29",
+        "name": "ORGANIC CHEMICALS",
+        "version": 2024,
+        "section": "VI"
+    },
+    {
+        "code": "30",
+        "rawCode": "30",
+        "name": "PHARMACEUTICAL PRODUCTS",
+        "version": 2024,
+        "section": "VI"
+    },
+    {
+        "code": "31",
+        "rawCode": "31",
+        "name": "FERTILISERS",
+        "version": 2024,
+        "section": "VI"
+    },
+    {
+        "code": "32",
+        "rawCode": "32",
+        "name": "TANNING OR DYEING EXTRACTS; TANNINS AND THEIR DERIVATIVES; DYES, PIGMENTS AND OTHER COLOURING MATTER; PAINTS AND VARNISHES; PUTTY AND OTHER MASTICS; INKS",
+        "version": 2024,
+        "section": "VI"
+    },
+    {
+        "code": "33",
+        "rawCode": "33",
+        "name": "ESSENTIAL OILS AND RESINOIDS; PERFUMERY, COSMETIC OR TOILET PREPARATIONS",
+        "version": 2024,
+        "section": "VI"
+    },
+    {
+        "code": "34",
+        "rawCode": "34",
+        "name": "SOAP, ORGANIC SURFACE-ACTIVE AGENTS, WASHING PREPARATIONS, LUBRICATING PREPARATIONS, ARTIFICIAL WAXES, PREPARED WAXES, POLISHING OR SCOURING PREPARATIONS, CANDLES AND SIMILAR ARTICLES, MODELLING PASTES, ‘DENTAL WAXES’ AND DENTAL PREPARATIONS WITH A BASIS OF PLASTER",
+        "version": 2024,
+        "section": "VI"
+    },
+    {
+        "code": "35",
+        "rawCode": "35",
+        "name": "ALBUMINOIDAL SUBSTANCES; MODIFIED STARCHES; GLUES; ENZYMES",
+        "version": 2024,
+        "section": "VI"
+    },
+    {
+        "code": "36",
+        "rawCode": "36",
+        "name": "EXPLOSIVES; PYROTECHNIC PRODUCTS; MATCHES; PYROPHORIC ALLOYS; CERTAIN COMBUSTIBLE PREPARATIONS",
+        "version": 2024,
+        "section": "VI"
+    },
+    {
+        "code": "37",
+        "rawCode": "37",
+        "name": "PHOTOGRAPHIC OR CINEMATOGRAPHIC GOODS",
+        "version": 2024,
+        "section": "VI"
+    },
+    {
+        "code": "38",
+        "rawCode": "38",
+        "name": "MISCELLANEOUS CHEMICAL PRODUCTS",
+        "version": 2024,
+        "section": "VI"
+    },
+    {
+        "code": "39",
+        "rawCode": "39",
+        "name": "PLASTICS AND ARTICLES THEREOF",
+        "version": 2024,
+        "section": "VII"
+    },
+    {
+        "code": "40",
+        "rawCode": "40",
+        "name": "RUBBER AND ARTICLES THEREOF",
+        "version": 2024,
+        "section": "VII"
+    },
+    {
+        "code": "41",
+        "rawCode": "41",
+        "name": "RAW HIDES AND SKINS (OTHER THAN FURSKINS) AND LEATHER",
+        "version": 2024,
+        "section": "VIII"
+    },
+    {
+        "code": "42",
+        "rawCode": "42",
+        "name": "ARTICLES OF LEATHER; SADDLERY AND HARNESS; TRAVEL GOODS, HANDBAGS AND SIMILAR CONTAINERS; ARTICLES OF ANIMAL GUT (OTHER THAN SILKWORM GUT)",
+        "version": 2024,
+        "section": "VIII"
+    },
+    {
+        "code": "43",
+        "rawCode": "43",
+        "name": "FURSKINS AND ARTIFICIAL FUR; MANUFACTURES THEREOF",
+        "version": 2024,
+        "section": "VIII"
+    },
+    {
+        "code": "44",
+        "rawCode": "44",
+        "name": "WOOD AND ARTICLES OF WOOD; WOOD CHARCOAL",
+        "version": 2024,
+        "section": "IX"
+    },
+    {
+        "code": "45",
+        "rawCode": "45",
+        "name": "CORK AND ARTICLES OF CORK",
+        "version": 2024,
+        "section": "IX"
+    },
+    {
+        "code": "46",
+        "rawCode": "46",
+        "name": "MANUFACTURES OF STRAW, OF ESPARTO OR OF OTHER PLAITING MATERIALS; BASKETWARE AND WICKERWORK",
+        "version": 2024,
+        "section": "IX"
+    },
+    {
+        "code": "47",
+        "rawCode": "47",
+        "name": "PULP OF WOOD OR OF OTHER FIBROUS CELLULOSIC MATERIAL; RECOVERED (WASTE AND SCRAP) PAPER OR PAPERBOARD",
+        "version": 2024,
+        "section": "X"
+    },
+    {
+        "code": "48",
+        "rawCode": "48",
+        "name": "PAPER AND PAPERBOARD; ARTICLES OF PAPER PULP, OF PAPER OR OF PAPERBOARD",
+        "version": 2024,
+        "section": "X"
+    },
+    {
+        "code": "49",
+        "rawCode": "49",
+        "name": "PRINTED BOOKS, NEWSPAPERS, PICTURES AND OTHER PRODUCTS OF THE PRINTING INDUSTRY; MANUSCRIPTS, TYPESCRIPTS AND PLANS",
+        "version": 2024,
+        "section": "X"
+    },
+    {
+        "code": "50",
+        "rawCode": "50",
+        "name": "SILK",
+        "version": 2024,
+        "section": "XI"
+    },
+    {
+        "code": "51",
+        "rawCode": "51",
+        "name": "WOOL, FINE OR COARSE ANIMAL HAIR; HORSEHAIR YARN AND WOVEN FABRIC",
+        "version": 2024,
+        "section": "XI"
+    },
+    {
+        "code": "52",
+        "rawCode": "52",
+        "name": "COTTON",
+        "version": 2024,
+        "section": "XI"
+    },
+    {
+        "code": "53",
+        "rawCode": "53",
+        "name": "OTHER VEGETABLE TEXTILE FIBRES; PAPER YARN AND WOVEN FABRICS OF PAPER YARN",
+        "version": 2024,
+        "section": "XI"
+    },
+    {
+        "code": "54",
+        "rawCode": "54",
+        "name": "MAN-MADE FILAMENTS; STRIP AND THE LIKE OF MAN-MADE TEXTILE MATERIALS",
+        "version": 2024,
+        "section": "XI"
+    },
+    {
+        "code": "55",
+        "rawCode": "55",
+        "name": "MAN-MADE STAPLE FIBRES",
+        "version": 2024,
+        "section": "XI"
+    },
+    {
+        "code": "56",
+        "rawCode": "56",
+        "name": "WADDING, FELT AND NONWOVENS; SPECIAL YARNS; TWINE, CORDAGE, ROPES AND CABLES AND ARTICLES THEREOF",
+        "version": 2024,
+        "section": "XI"
+    },
+    {
+        "code": "57",
+        "rawCode": "57",
+        "name": "CARPETS AND OTHER TEXTILE FLOOR COVERINGS",
+        "version": 2024,
+        "section": "XI"
+    },
+    {
+        "code": "58",
+        "rawCode": "58",
+        "name": "SPECIAL WOVEN FABRICS; TUFTED TEXTILE FABRICS; LACE; TAPESTRIES; TRIMMINGS; EMBROIDERY",
+        "version": 2024,
+        "section": "XI"
+    },
+    {
+        "code": "59",
+        "rawCode": "59",
+        "name": "IMPREGNATED, COATED, COVERED OR LAMINATED TEXTILE FABRICS; TEXTILE ARTICLES OF A KIND SUITABLE FOR INDUSTRIAL USE",
+        "version": 2024,
+        "section": "XI"
+    },
+    {
+        "code": "60",
+        "rawCode": "60",
+        "name": "KNITTED OR CROCHETED FABRICS",
+        "version": 2024,
+        "section": "XI"
+    },
+    {
+        "code": "61",
+        "rawCode": "61",
+        "name": "ARTICLES OF APPAREL AND CLOTHING ACCESSORIES, KNITTED OR CROCHETED",
+        "version": 2024,
+        "section": "XI"
+    },
+    {
+        "code": "62",
+        "rawCode": "62",
+        "name": "ARTICLES OF APPAREL AND CLOTHING ACCESSORIES, NOT KNITTED OR CROCHETED",
+        "version": 2024,
+        "section": "XI"
+    },
+    {
+        "code": "63",
+        "rawCode": "63",
+        "name": "OTHER MADE-UP TEXTILE ARTICLES; SETS; WORN CLOTHING AND WORN TEXTILE ARTICLES; RAGS",
+        "version": 2024,
+        "section": "XI"
+    },
+    {
+        "code": "64",
+        "rawCode": "64",
+        "name": "FOOTWEAR, GAITERS AND THE LIKE; PARTS OF SUCH ARTICLES",
+        "version": 2024,
+        "section": "XII"
+    },
+    {
+        "code": "65",
+        "rawCode": "65",
+        "name": "HEADGEAR AND PARTS THEREOF",
+        "version": 2024,
+        "section": "XII"
+    },
+    {
+        "code": "66",
+        "rawCode": "66",
+        "name": "UMBRELLAS, SUN UMBRELLAS, WALKING STICKS, SEAT-STICKS, WHIPS, RIDING-CROPS AND PARTS THEREOF",
+        "version": 2024,
+        "section": "XII"
+    },
+    {
+        "code": "67",
+        "rawCode": "67",
+        "name": "PREPARED FEATHERS AND DOWN AND ARTICLES MADE OF FEATHERS OR OF DOWN; ARTIFICIAL FLOWERS; ARTICLES OF HUMAN HAIR",
+        "version": 2024,
+        "section": "XII"
+    },
+    {
+        "code": "68",
+        "rawCode": "68",
+        "name": "ARTICLES OF STONE, PLASTER, CEMENT, ASBESTOS, MICA OR SIMILAR MATERIALS",
+        "version": 2024,
+        "section": "XIII"
+    },
+    {
+        "code": "69",
+        "rawCode": "69",
+        "name": "CERAMIC PRODUCTS",
+        "version": 2024,
+        "section": "XIII"
+    },
+    {
+        "code": "70",
+        "rawCode": "70",
+        "name": "GLASS AND GLASSWARE",
+        "version": 2024,
+        "section": "XIII"
+    },
+    {
+        "code": "71",
+        "rawCode": "71",
+        "name": "NATURAL OR CULTURED PEARLS, PRECIOUS OR SEMI-PRECIOUS STONES, PRECIOUS METALS, METALS CLAD WITH PRECIOUS METAL, AND ARTICLES THEREOF; IMITATION JEWELLERY; COIN",
+        "version": 2024,
+        "section": "XIV"
+    },
+    {
+        "code": "72",
+        "rawCode": "72",
+        "name": "IRON AND STEEL",
+        "version": 2024,
+        "section": "XV"
+    },
+    {
+        "code": "73",
+        "rawCode": "73",
+        "name": "ARTICLES OF IRON OR STEEL",
+        "version": 2024,
+        "section": "XV"
+    },
+    {
+        "code": "74",
+        "rawCode": "74",
+        "name": "COPPER AND ARTICLES THEREOF",
+        "version": 2024,
+        "section": "XV"
+    },
+    {
+        "code": "75",
+        "rawCode": "75",
+        "name": "NICKEL AND ARTICLES THEREOF",
+        "version": 2024,
+        "section": "XV"
+    },
+    {
+        "code": "76",
+        "rawCode": "76",
+        "name": "ALUMINIUM AND ARTICLES THEREOF",
+        "version": 2024,
+        "section": "XV"
+    },
+    {
+        "code": "78",
+        "rawCode": "78",
+        "name": "LEAD AND ARTICLES THEREOF",
+        "version": 2024,
+        "section": "XV"
+    },
+    {
+        "code": "79",
+        "rawCode": "79",
+        "name": "ZINC AND ARTICLES THEREOF",
+        "version": 2024,
+        "section": "XV"
+    },
+    {
+        "code": "80",
+        "rawCode": "80",
+        "name": "TIN AND ARTICLES THEREOF",
+        "version": 2024,
+        "section": "XV"
+    },
+    {
+        "code": "81",
+        "rawCode": "81",
+        "name": "OTHER BASE METALS; CERMETS; ARTICLES THEREOF",
+        "version": 2024,
+        "section": "XV"
+    },
+    {
+        "code": "82",
+        "rawCode": "82",
+        "name": "TOOLS, IMPLEMENTS, CUTLERY, SPOONS AND FORKS, OF BASE METAL; PARTS THEREOF OF BASE METAL",
+        "version": 2024,
+        "section": "XV"
+    },
+    {
+        "code": "83",
+        "rawCode": "83",
+        "name": "MISCELLANEOUS ARTICLES OF BASE METAL",
+        "version": 2024,
+        "section": "XV"
+    },
+    {
+        "code": "84",
+        "rawCode": "84",
+        "name": "NUCLEAR REACTORS, BOILERS, MACHINERY AND MECHANICAL APPLIANCES; PARTS THEREOF",
+        "version": 2024,
+        "section": "XVI"
+    },
+    {
+        "code": "85",
+        "rawCode": "85",
+        "name": "ELECTRICAL MACHINERY AND EQUIPMENT AND PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS, TELEVISION IMAGE AND SOUND RECORDERS AND REPRODUCERS, AND PARTS AND ACCESSORIES OF SUCH ARTICLES",
+        "version": 2024,
+        "section": "XVI"
+    },
+    {
+        "code": "86",
+        "rawCode": "86",
+        "name": "RAILWAY OR TRAMWAY LOCOMOTIVES, ROLLING STOCK AND PARTS THEREOF; RAILWAY OR TRAMWAY TRACK FIXTURES AND FITTINGS AND PARTS THEREOF; MECHANICAL (INCLUDING ELECTROMECHANICAL) TRAFFIC SIGNALLING EQUIPMENT OF ALL KINDS",
+        "version": 2024,
+        "section": "XVII"
+    },
+    {
+        "code": "87",
+        "rawCode": "87",
+        "name": "VEHICLES OTHER THAN RAILWAY OR TRAMWAY ROLLING STOCK, AND PARTS AND ACCESSORIES THEREOF",
+        "version": 2024,
+        "section": "XVII"
+    },
+    {
+        "code": "88",
+        "rawCode": "88",
+        "name": "AIRCRAFT, SPACECRAFT, AND PARTS THEREOF",
+        "version": 2024,
+        "section": "XVII"
+    },
+    {
+        "code": "89",
+        "rawCode": "89",
+        "name": "SHIPS, BOATS AND FLOATING STRUCTURES",
+        "version": 2024,
+        "section": "XVII"
+    },
+    {
+        "code": "90",
+        "rawCode": "90",
+        "name": "OPTICAL, PHOTOGRAPHIC, CINEMATOGRAPHIC, MEASURING, CHECKING, PRECISION, MEDICAL OR SURGICAL INSTRUMENTS AND APPARATUS; PARTS AND ACCESSORIES THEREOF",
+        "version": 2024,
+        "section": "XVIII"
+    },
+    {
+        "code": "91",
+        "rawCode": "91",
+        "name": "CLOCKS AND WATCHES AND PARTS THEREOF",
+        "version": 2024,
+        "section": "XVIII"
+    },
+    {
+        "code": "92",
+        "rawCode": "92",
+        "name": "MUSICAL INSTRUMENTS; PARTS AND ACCESSORIES OF SUCH ARTICLES",
+        "version": 2024,
+        "section": "XVIII"
+    },
+    {
+        "code": "93",
+        "rawCode": "93",
+        "name": "ARMS AND AMMUNITION; PARTS AND ACCESSORIES THEREOF",
+        "version": 2024,
+        "section": "XIX"
+    },
+    {
+        "code": "94",
+        "rawCode": "94",
+        "name": "FURNITURE; BEDDING, MATTRESSES, MATTRESS SUPPORTS, CUSHIONS AND SIMILAR STUFFED FURNISHINGS; LUMINAIRES AND LIGHTING FITTINGS, NOT ELSEWHERE SPECIFIED OR INCLUDED; ILLUMINATED SIGNS, ILLUMINATED NAMEPLATES AND THE LIKE; PREFABRICATED BUILDINGS",
+        "version": 2024,
+        "section": "XX"
+    },
+    {
+        "code": "95",
+        "rawCode": "95",
+        "name": "TOYS, GAMES AND SPORTS REQUISITES; PARTS AND ACCESSORIES THEREOF",
+        "version": 2024,
+        "section": "XX"
+    },
+    {
+        "code": "96",
+        "rawCode": "96",
+        "name": "MISCELLANEOUS MANUFACTURED ARTICLES",
+        "version": 2024,
+        "section": "XX"
+    },
+    {
+        "code": "97",
+        "rawCode": "97",
+        "name": "WORKS OF ART, COLLECTORS' PIECES AND ANTIQUES",
+        "version": 2024,
+        "section": "XXI"
+    },
+    {
+        "code": "98",
+        "rawCode": "98",
+        "name": "COMPLETE INDUSTRIAL PLANT",
+        "version": 2024,
+        "section": "XXI"
+    }
+]

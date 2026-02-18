@@ -1,0 +1,16 @@
+#!/usr/bin/env php
+<?php
+
+require __DIR__ . '/../vendor/autoload.php';
+
+use Symfony\Component\Console\Application;
+use Xterr\CnCodes\Command\BuildTranslationsCommand;
+use Xterr\CnCodes\Command\ParseRdfCommand;
+
+$application = new Application('CN Codes CLI', '1.0.0');
+
+$addMethod = method_exists($application, 'addCommand') ? 'addCommand' : 'add';
+$application->$addMethod(new ParseRdfCommand());
+$application->$addMethod(new BuildTranslationsCommand());
+
+$application->run();
