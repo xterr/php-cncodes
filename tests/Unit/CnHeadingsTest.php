@@ -11,7 +11,7 @@ class CnHeadingsTest extends TestCase
 {
     public function testIterator(): void
     {
-        $factory = new CnCodesFactory();
+        $factory  = new CnCodesFactory();
         $headings = $factory->getHeadings();
 
         foreach ($headings as $cnHeading) {
@@ -27,7 +27,7 @@ class CnHeadingsTest extends TestCase
 
     public function testGetByCodeAndVersion(): void
     {
-        $factory = new CnCodesFactory();
+        $factory   = new CnCodesFactory();
         $cnHeading = $factory->getHeadings()->getByCodeAndVersion('0101', CnVersion::VERSION_2026);
 
         static::assertInstanceOf(CnHeading::class, $cnHeading);
@@ -55,6 +55,6 @@ class CnHeadingsTest extends TestCase
     public function testCount(): void
     {
         $factory = new CnCodesFactory();
-        static::assertEquals(7656, $factory->getHeadings()->count());
+        static::assertEquals(3828, $factory->getHeadings()->count());
     }
 }
